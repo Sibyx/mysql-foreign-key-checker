@@ -1,1 +1,4 @@
 db.yml
+Gemfile.lock
+vendor/
+.bundle/
